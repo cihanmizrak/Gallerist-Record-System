@@ -99,3 +99,4 @@ for data in vehicle_data:
 
 # Close the database
 conn.close()
+
